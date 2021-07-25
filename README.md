@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 你好，世界 👋
 
-- :orange_book: Focusing on Swift & iOS
+- :orange_book: Focusing on HTML/CSS/JS & Vue
 - :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
+- 🌱 I’m currently learning JavaScript & Vue. I hope to have a deeper understanding of them in the near future
 - :meat_on_bone: Meat lover
