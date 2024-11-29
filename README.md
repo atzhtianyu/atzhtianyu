@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 你好，世界 👋
 
-- :orange_book: Focusing on HTML/CSS/JS & Vue
+- :orange_book: Focusing on benchmarks
 - 🧑‍💻: Creator of applications
 - 🌱: I’m currently learning JavaScript & Vue. I hope to have a deeper understanding of them in the near future
 - 🍖: Gourmet enthusiast
