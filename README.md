@@ -1,24 +1,11 @@
-### Hi there 👋
-
-<!--
-**atzhtianyu/atzhtianyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=atzhtianyu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 ### 你好，世界 👋
 
-- :orange_book: Focusing on benchmarks
-- 🧑‍💻: Creator of applications
-- 🌱: I’m currently learning JavaScript & Vue. I hope to have a deeper understanding of them in the near future
-- 🍖: Gourmet enthusiast
+* 🐧 Linux Test Infrastructure Engineer
+* 🚀 Working on openEuler ecosystem validation
+* 🛠️ Developing automated test orchestration systems based on mugen, QEMU and LAVA
+* 📈 Focused on benchmark, performance and stability testing
+* 🔬 Interested in virtualization, CI/CD and large-scale test automation
+* 🌱 Always learning new technologies and improving engineering efficiency
+* ☕ Open Source Enthusiast & Continuous Improver
+
+> Make testing scalable, reproducible and reliable.
